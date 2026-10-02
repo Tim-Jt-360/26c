@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_F3077B54_FD3E_5E17_41E4_B0E58E688F54.label = Schüepwis 26c
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis 26c
