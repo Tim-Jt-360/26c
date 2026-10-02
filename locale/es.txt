@@ -3,7 +3,7 @@
 ## Media
 
 ### Título
-panorama_F3077B54_FD3E_5E17_41E4_B0E58E688F54.label = Schüepwis 26c
+panorama_F3F3280A_FD4A_D9F3_419E_B54275994D30.label = Schüepwis 26c
 
 ## Tour
 
